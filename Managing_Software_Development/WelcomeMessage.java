@@ -8,6 +8,8 @@ public class WelcomeMessage {
         System.out.println("____________________________________________");
         System.out.println("NILUSHA LAKMALI");
         System.out.println("____________________________________________");
+        System.out.println("TAHMID AL FERDOUS");
+        System.out.println("____________________________________________");
         
         
     }
