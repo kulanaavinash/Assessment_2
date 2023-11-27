@@ -6,6 +6,8 @@ public class WelcomeMessage {
         System.out.println("---------------------------------------------------");
         System.out.println("KULANA AVINASH");
         System.out.println("____________________________________________");
+        System.out.println("NILUSHA LAKMALI");
+        System.out.println("____________________________________________");
     }
 }
 
